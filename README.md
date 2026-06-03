@@ -1,8 +1,5 @@
 # Experiment 02: OOP for Mechanical Component Modelling
 
-**Subject:** AI in Mechanical Engineering (ONT406)
-**Sharda University, Greater Noida**
-
 ---
 
 ## Aim
@@ -58,8 +55,8 @@ Note: `math` is built-in — no installation needed!
 ## How to Run
 
 ```bash
-git clone https://github.com/2025514764himanshu-sudo1128/Exp02-OOP-Mechanical-Components.git
-cd Exp02-OOP-Mechanical-Components
+git clone https://github.com/2025514764himanshu-sudo1128/OOP-Mechanical-Components.git
+cd OOP-Mechanical-Components
 python mechanical_components_oop.py
 ```
 

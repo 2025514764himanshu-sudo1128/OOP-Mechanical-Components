@@ -1,9 +1,6 @@
 import math
 
 # ============================================================
-# EXPERIMENT 2: OOP for Mechanical Component Modelling
-# Subject: AI in Mechanical Engineering (ONT406)
-# Sharda University
 # ============================================================
 
 class MaterialError(ValueError):
